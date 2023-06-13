@@ -1,0 +1,13 @@
+config: config some modules
+
+controllers: store the functions when a user visits the server path
+
+helpers:some functions for a certain view to do something
+
+models:store models of data
+
+public: static files
+
+routes:url or routes have the server
+
+views:the files html will send to nav 

@@ -1,0 +1,17 @@
+express: module it helps to create a server
+
+connect-flash: send messages  between views to user
+
+bcryptjs: encrypt passwords to convert it into a hash
+
+express-handlebars: module create views handlebars 
+
+express-session: save data in the memory of server 
+
+method-override: send request put or delete since views 
+
+moongose:manage mongodb database
+
+pass-port: authenticate user
+
+dotenv: allows us to use environment variables
