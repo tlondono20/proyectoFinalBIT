@@ -15,3 +15,7 @@ moongose:manage mongodb database
 pass-port: authenticate user
 
 dotenv: allows us to use environment variables
+
+start script: when the application is deployed and we don't need changes
+
+dev:while the app is in development and we need changes
